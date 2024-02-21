@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohithRohy
 - 🌱 I’m in intern full stack developer...
 - 💞️ I’m looking to collaborate to learn full stack developer...
-- 📫 How to reach me rohith2000b@gmail.com 
+- 📫 reach me - rohith2000b@gmail.com 
 
 
 <!---
